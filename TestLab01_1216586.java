@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class TestLab01_1216586
 {	
+	//Dung278 was here 
 	//check Prime number
 	public static boolean Prime(int n){
 		if(n<2)
