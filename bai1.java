@@ -1,4 +1,4 @@
-package mang1chieu;
+﻿package mang1chieu;
 
 import java.util.Scanner;
 public class bai1 {
@@ -110,24 +110,29 @@ public class bai1 {
 		m.nhap();
 		System.out.println("\nNoi dung mang:");
 		m.in();
-//		System.out.println("\nTong cac so trong mang la:" +m.tong());
-//		m.max(); 
-//		m.dao();
-//		System.out.print("\nMang sau khi dso nguoc : ");m.in();
-//		if(m.tang()) System.out.println("\nMang tang dan");
-//		else System.out.println("\nMang khong tang dan");
-//		Scanner kb=new Scanner(System.in);
-//		System.out.println("\nNhap x :");
-//		x=kb.nextInt();
-//		if(m.timx(x)==1) System.out.println("yes");
-//		else System.out.println("no");
+		System.out.println("\nTong cac so trong mang la:" +m.tong());
+		m.max(); 
+		m.dao();
+	System.out.print("\nMang sau khi dso nguoc : ");m.in();
+		if(m.tang()) System.out.println("\nMang tang dan");
+		else System.out.println("\nMang khong tang dan");
+	Scanner kb=new Scanner(System.in);
+		System.out.println("\nNhap x :");
+		x=kb.nextInt();
+		if(m.timx(x)==1) System.out.println("yes");
+		else System.out.println("no");
 		m.chen();
 		System.out.print("\nMang sau khi chen : ");
 		m.in();
 //		m.xoa();
 //		System.out.print("\nMang sau khi xoa :" );
 //		m.in();
-//cule
+// khánh đẹp Trai
+// khánh đẹp Trai
+
+
+
+
 
 	}
 }
