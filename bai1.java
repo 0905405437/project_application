@@ -127,8 +127,7 @@ public class bai1 {
 //		m.xoa();
 //		System.out.print("\nMang sau khi xoa :" );
 //		m.in();
-// khánh đẹp Trai
-// khánh đẹp Trai
+
 
 		
 
