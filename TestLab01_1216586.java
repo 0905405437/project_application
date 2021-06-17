@@ -4,9 +4,7 @@ import java.util.Scanner;
 
 public class TestLab01_1216586
 {	
-	//Anh-Khanh
-	//	Thien3114
-	//Dung278 was here
+	
 	//tienbui1234
 	//check Prime number
 	public static boolean Prime(int n){
